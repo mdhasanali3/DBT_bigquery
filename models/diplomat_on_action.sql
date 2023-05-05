@@ -1,0 +1,1 @@
+SELECT * FROM `bs-bl-291005.diplomat_ger.2020_02_05_test` where jurisdictions is not null
